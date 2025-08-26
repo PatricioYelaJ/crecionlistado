@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Profesor A",
+    "grade": "1",
+    "parallel": "A",
+    "students": 30,
+    "menus": {
+      "Desayuno": 30,
+      "Almuerzo": 30
+    }
+  },
+  {
+    "name": "Profesor B",
+    "grade": "2",
+    "parallel": "B",
+    "students": 28,
+    "menus": {
+      "Desayuno": 28,
+      "Almuerzo": 28,
+      "Merienda": 28
+    }
+  }
+]
